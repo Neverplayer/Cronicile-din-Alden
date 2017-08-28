@@ -11,12 +11,12 @@ a invatat oamenii cum sa traiasca. In timp ce el este in Ponosa , Ros Alexandru 
 solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pamant. Ioan fara sa vrea este prins in conflict , el fiind nevoit sa aleaga o parte , dar in acelasi timp sa rezolve si ceea ce i sa cerut , anume sa investigheze problema Blajinilor.
 
 ## Detalii joc
--RPG
--2D
+*RPG
+*2D
 
 ## Programe folosite
--Game Maker 8.1
--paint.net
+*Game Maker 8.1
+*paint.net
 
 ## Imagini
 
@@ -30,5 +30,5 @@ solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pam
 <img src="https://image.ibb.co/j64zgk/Untitled8.png" height="500" width="600">
 
 ## Realizatori
-Andrei Ionut-Catalin
-Dida Ioan-Marian
+*Andrei Ionut-Catalin
+*Dida Ioan-Marian
