@@ -13,7 +13,6 @@ solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pam
 ## Detalii joc
 -RPG
 -2D
--Numai pentru Windows
 
 ## Programe folosite
 -Game Maker 8.1
@@ -21,4 +20,15 @@ solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pam
 
 ## Imagini
 
-<img src="https://image.ibb.co/cd8aMk/Untitled1.png" height="500" width="500">
+<img src="https://image.ibb.co/cd8aMk/Untitled1.png" height="500" width="600">
+<img src="https://image.ibb.co/hAwvMk/Untitled2.png" height="500" width="600">
+<img src="https://image.ibb.co/ch5cZ5/Untitled3.png" height="500" width="600">
+<img src="https://image.ibb.co/dbFcZ5/Untitled4.png" height="500" width="600">
+<img src="https://image.ibb.co/jTjRSQ/Untitled5.png" height="500" width="600">
+<img src="https://image.ibb.co/i3LY7Q/Untitled6.png" height="500" width="600">
+<img src="https://image.ibb.co/esis1k/Untitled7.png" height="500" width="600">
+<img src="https://image.ibb.co/j64zgk/Untitled8.png" height="500" width="600">
+
+## Realizatori
+Andrei Ionut-Catalin
+Dida Ioan-Marian
