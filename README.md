@@ -34,3 +34,8 @@ solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pam
 ## Realizatori
 - Andrei Ionut-Catalin
 - Dida Ioan-Marian
+
+## Credite
+- [Open Game Art](https://opengameart.org/ "OpenGameArt.org")
+- [In the fairy woods by NCBM](https://www.youtube.com/watch?v=6p-QQ_ro0bA)
+
