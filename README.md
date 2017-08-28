@@ -15,10 +15,10 @@ solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pam
 -2D
 -Numai pentru Windows
 
-##Programe folosite
+## Programe folosite
 -Game Maker 8.1
 -paint.net
 
-##Imagini
+## Imagini
 
-<img src="https://ibb.co/dR94E5" height="500" width="500">
+<img src="https://image.ibb.co/cd8aMk/Untitled1.png" height="500" width="500">
