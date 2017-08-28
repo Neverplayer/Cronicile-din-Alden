@@ -16,9 +16,9 @@ solomonari , magicieni veniti din alte taramuri pentru a cuceri cat mai mult pam
 
 ## Programe folosite
 - Game Maker 8.1
+<img src="http://getintopc.com/wp-content/uploads/2014/01/Gm8_new_logo.png.jpeg" height="50" width="100">
 - paint.net
 <img src="https://camo.githubusercontent.com/44997bccea50b9b4dba6636ce909f2d70458429a/687474703a2f2f63646e2e6d616b657573656f662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30342f5061696e744e45542d506c7567696e732d496e74726f2e6a70673f303034663064" height="50" width="50">
-<img src="http://getintopc.com/wp-content/uploads/2014/01/Gm8_new_logo.png.jpeg" height="50" width="100">
 
 ## Imagini
 
